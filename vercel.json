@@ -2,7 +2,7 @@
   "redirects": [
     {
       "source": "/.*",
-      "destination": "https://shijinyia-uptime-kuma.hf.space/status/jinyi/$1",
+      "destination": "https://dl.110903.xyz/$1",
       "permanent": true
     }
   ]
