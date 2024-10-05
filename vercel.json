@@ -2,7 +2,7 @@
   "routes": [
     {
       "src": "/(.*)",
-      "dest": "http://dl.110903.xyz/$1"
+      "dest": "http://00.110903.xyz/$1"
     }
   ]
 }
